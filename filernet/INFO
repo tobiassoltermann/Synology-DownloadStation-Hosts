@@ -1,0 +1,10 @@
+{
+"name": "filernet",
+"hostprefix": "filer.net",
+"displayname": "Filer.net",
+"version": "1.0",
+"authentication": "yes",
+"module": "filernethost.php",
+"class": "SynoFileHostingFilernet",
+"description": "Premium support only"
+}
